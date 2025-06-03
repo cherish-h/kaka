@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="837" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,6 +227,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-102" target="fR7NPAVBZMRlf3rJHc6e-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1570" />
+              <mxPoint x="280" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-116" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fR7NPAVBZMRlf3rJHc6e-115">
+          <mxGeometry x="-0.221" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-102" value="是否继续缴费咨询" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="80" y="1480" width="110" height="80" as="geometry" />
         </mxCell>
@@ -235,11 +249,17 @@
             <mxPoint x="135" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-107" value="取消咨询" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-107" value="点击“取消咨询”" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="75" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-112" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="77e6c97f196da883-6">
-          <mxGeometry x="75" y="1680" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="1710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-113" target="fR7NPAVBZMRlf3rJHc6e-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-113" value="10分钟后不支付自动取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="220" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;医生端&lt;/font&gt;" style="swimlane;html=1;startSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="445" y="50" width="420" height="1870" as="geometry" />
