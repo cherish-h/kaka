@@ -197,8 +197,14 @@
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-91" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;进入****匹配&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="75" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-97" value="进入“我的”--" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-97" target="fR7NPAVBZMRlf3rJHc6e-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-97" value="进入“我的”--&quot;问诊订单&quot;，选择刚才的医院" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="265" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-100" value="查看咨询记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="265" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;医生端&lt;/font&gt;" style="swimlane;html=1;startSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="445" y="50" width="420" height="1460" as="geometry" />
