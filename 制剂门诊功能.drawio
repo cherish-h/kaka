@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1733" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 40px;&quot;&gt;概念异常功能业务流程&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=80;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="210" y="70" width="1795" height="2870" as="geometry">
+          <mxGeometry x="210" y="70" width="1795" height="2880" as="geometry">
             <mxRectangle x="80" y="70" width="280" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-7" style="swimlane;html=1;startSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="80" width="170" height="2790" as="geometry" />
+          <mxGeometry y="80" width="170" height="2800" as="geometry" />
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-68" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;患者提交&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;制剂申请&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;订单&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Vj2CczaLzuFjUElGhAKb-7" vertex="1">
           <mxGeometry y="710" width="170" height="30" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry y="2460" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="&lt;font style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 30px;&quot;&gt;大众端&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="170" y="80" width="535" height="2790" as="geometry" />
+          <mxGeometry x="170" y="80" width="535" height="2800" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-5" target="fR7NPAVBZMRlf3rJHc6e-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-14" value="填写诊前问卷调查" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="-5" y="460" width="200" height="60" as="geometry" />
+          <mxGeometry x="10" y="460" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-16" target="fR7NPAVBZMRlf3rJHc6e-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,21 +71,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-16" target="fR7NPAVBZMRlf3rJHc6e-21" edge="1">
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-16" target="fR7NPAVBZMRlf3rJHc6e-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="570" />
-              <mxPoint x="280" y="570" />
+              <mxPoint x="290" y="580" />
+              <mxPoint x="290" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;" parent="fR7NPAVBZMRlf3rJHc6e-22" vertex="1" connectable="0">
           <mxGeometry x="0.409" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-16" value="系统判断是否适合该药剂" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="-10" y="530" width="260" height="80" as="geometry" />
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-16" value="系统判断&lt;div&gt;是否适合该药剂&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="-2.5" y="540" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-18" target="fR7NPAVBZMRlf3rJHc6e-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="75" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-21" value="在线咨询医生开药" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="310" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="355" y="550" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-16" target="fR7NPAVBZMRlf3rJHc6e-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-26" value="选择问诊人" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="75" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="730" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-31" target="fR7NPAVBZMRlf3rJHc6e-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -135,25 +135,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-31" value="是否有对应就诊卡" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="60" y="810" width="150" height="80" as="geometry" />
+          <mxGeometry x="45" y="810" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-33" target="fR7NPAVBZMRlf3rJHc6e-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-33" value="选择病情资料" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="75" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="930" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-37" target="fR7NPAVBZMRlf3rJHc6e-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="910" as="sourcePoint" />
             <mxPoint x="222.5" y="960" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="345" y="950" />
+              <mxPoint x="418" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-37" value="注册就诊卡并绑定" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="285" y="820" width="135" height="60" as="geometry" />
+          <mxGeometry x="350" y="820" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-45" target="fR7NPAVBZMRlf3rJHc6e-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-45" value="是否有可用的&lt;div&gt;历史病情资料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="60" y="1000" width="150" height="80" as="geometry" />
+          <mxGeometry x="20" y="1000" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-47" target="fR7NPAVBZMRlf3rJHc6e-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -180,16 +180,16 @@
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-47" value="订单提交成功" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="75" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-50" target="fR7NPAVBZMRlf3rJHc6e-47" edge="1">
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-50" target="fR7NPAVBZMRlf3rJHc6e-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="1180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="1149" />
+              <mxPoint x="368" y="1149" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-50" value="新建病情资料" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="260" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="1010" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-89" target="fR7NPAVBZMRlf3rJHc6e-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,12 +200,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-89" value="是否立即缴费" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="70" y="1190" width="130" height="80" as="geometry" />
+          <mxGeometry x="40" y="1190" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-97" target="fR7NPAVBZMRlf3rJHc6e-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-97" value="进入“我的”--&quot;问诊订单&quot;，选择刚才的医院" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-97" value="进入&quot;问诊订单&quot;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="320" y="1200" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-100" target="fR7NPAVBZMRlf3rJHc6e-102" edge="1">
@@ -224,14 +224,14 @@
             <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" parent="77e6c97f196da883-6" target="fR7NPAVBZMRlf3rJHc6e-113" edge="1">
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" parent="77e6c97f196da883-6" target="fR7NPAVBZMRlf3rJHc6e-113" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="522.5000000000002" y="1515.4200000000003" as="targetPoint" />
+            <mxPoint x="449.79999999999995" y="1509.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="412" y="1490" />
-              <mxPoint x="453" y="1490" />
+              <mxPoint x="410" y="1490" />
+              <mxPoint x="463" y="1490" />
             </Array>
-            <mxPoint x="412.5" y="1449.9654545454546" as="sourcePoint" />
+            <mxPoint x="410.02" y="1450.2054545454546" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-116" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;" parent="fR7NPAVBZMRlf3rJHc6e-115" vertex="1" connectable="0">
@@ -240,24 +240,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-102" value="是否继续&lt;div&gt;缴费咨询&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="350" y="1389.97" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="1390" width="170" height="79.97" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-107" target="fR7NPAVBZMRlf3rJHc6e-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="1590" />
+              <mxPoint x="405" y="1590" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-107" value="点击“取消咨询”" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="270" y="1510" width="120" height="60" as="geometry" />
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-107" value="点击&lt;div&gt;“取消咨询”&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="180" y="1510" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-112" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="345" y="1620" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-113" target="fR7NPAVBZMRlf3rJHc6e-112" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1590" />
+              <mxPoint x="405" y="1590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fR7NPAVBZMRlf3rJHc6e-113" value="10分钟后不支付自动取消" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="400" y="1510" width="110" height="60" as="geometry" />
+        <mxCell id="fR7NPAVBZMRlf3rJHc6e-113" value="超时自动取消" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="375" y="1510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-91" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;进入精准匹配&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;strokeColor=#000000;fontSize=26;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="75" y="1620" width="120" height="60" as="geometry" />
@@ -267,12 +276,12 @@
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-93" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;是&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;" parent="fR7NPAVBZMRlf3rJHc6e-92" vertex="1" connectable="0">
           <mxGeometry x="-0.0481" y="-1" relative="1" as="geometry">
-            <mxPoint x="309" y="-70" as="offset" />
+            <mxPoint x="286" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;" parent="fR7NPAVBZMRlf3rJHc6e-92" vertex="1" connectable="0">
           <mxGeometry x="-0.4394" y="-2" relative="1" as="geometry">
-            <mxPoint y="-71" as="offset" />
+            <mxPoint y="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" parent="77e6c97f196da883-6" source="fR7NPAVBZMRlf3rJHc6e-102" target="fR7NPAVBZMRlf3rJHc6e-91" edge="1">
@@ -282,7 +291,7 @@
         </mxCell>
         <mxCell id="fR7NPAVBZMRlf3rJHc6e-106" value="是，进行缴费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;" parent="fR7NPAVBZMRlf3rJHc6e-105" vertex="1" connectable="0">
           <mxGeometry x="-0.7017" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-42" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-6" source="Vj2CczaLzuFjUElGhAKb-37" target="Vj2CczaLzuFjUElGhAKb-38" edge="1">
@@ -368,7 +377,7 @@
           <mxGeometry x="100" y="2730" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="&lt;font style=&quot;font-weight: normal; font-size: 30px;&quot;&gt;医生端&lt;/font&gt;" style="swimlane;html=1;startSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="705" y="80" width="560" height="2790" as="geometry" />
+          <mxGeometry x="705" y="80" width="560" height="2800" as="geometry" />
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" parent="77e6c97f196da883-7" source="Vj2CczaLzuFjUElGhAKb-4" target="Vj2CczaLzuFjUElGhAKb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -428,7 +437,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-1" value="&lt;font style=&quot;font-weight: normal; font-size: 30px;&quot;&gt;管理后台端&lt;/font&gt;" style="swimlane;html=1;startSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="1265" y="80" width="530" height="2790" as="geometry" />
+          <mxGeometry x="1265" y="80" width="530" height="2800" as="geometry" />
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-21" value="审核处方是否合理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="Vj2CczaLzuFjUElGhAKb-1" vertex="1">
           <mxGeometry x="190" y="2090" width="220" height="60" as="geometry" />
