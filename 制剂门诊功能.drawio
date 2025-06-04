@@ -12,12 +12,6 @@
         <mxCell id="Vj2CczaLzuFjUElGhAKb-7" style="swimlane;html=1;startSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="80" width="170" height="2790" as="geometry" />
         </mxCell>
-        <mxCell id="Vj2CczaLzuFjUElGhAKb-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF66B3;strokeColor=#FF66B3;strokeWidth=5;" parent="Vj2CczaLzuFjUElGhAKb-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="2070" as="sourcePoint" />
-            <mxPoint x="1740" y="2060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-68" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;患者提交&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;制剂申请&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;订单&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Vj2CczaLzuFjUElGhAKb-7" vertex="1">
           <mxGeometry y="710" width="170" height="30" as="geometry" />
         </mxCell>
@@ -403,21 +397,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-13" value="开处方&lt;div&gt;（可引用患者申请的药剂）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="170" y="1880" width="297.5" height="100" as="geometry" />
+          <mxGeometry x="120" y="1880" width="347.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-15" value="确认处方并发送给患者" style="whiteSpace=wrap;html=1;rounded=0;fontSize=26;" parent="77e6c97f196da883-7" vertex="1">
-          <mxGeometry x="180" y="2000" width="277.5" height="60" as="geometry" />
+          <mxGeometry x="155" y="2000" width="277.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-66" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF66B3;strokeColor=#FF66B3;strokeWidth=5;" parent="77e6c97f196da883-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-705" y="2200" as="sourcePoint" />
-            <mxPoint x="1040" y="2190" as="targetPoint" />
+            <mxPoint x="1085" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF66B3;strokeColor=#FF66B3;jumpSize=10;shadow=0;strokeWidth=5;" parent="77e6c97f196da883-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-705" y="1710" as="sourcePoint" />
-            <mxPoint x="1035" y="1700" as="targetPoint" />
+            <mxPoint x="1085" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" parent="77e6c97f196da883-1" source="fR7NPAVBZMRlf3rJHc6e-91" target="Vj2CczaLzuFjUElGhAKb-4" edge="1">
@@ -438,6 +432,12 @@
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-21" value="审核处方是否合理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="Vj2CczaLzuFjUElGhAKb-1" vertex="1">
           <mxGeometry x="190" y="2090" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj2CczaLzuFjUElGhAKb-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF66B3;strokeColor=#FF66B3;strokeWidth=5;" parent="Vj2CczaLzuFjUElGhAKb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1265" y="2080" as="sourcePoint" />
+            <mxPoint x="525" y="2070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" parent="77e6c97f196da883-1" source="Vj2CczaLzuFjUElGhAKb-15" target="Vj2CczaLzuFjUElGhAKb-21" edge="1">
           <mxGeometry relative="1" as="geometry">
