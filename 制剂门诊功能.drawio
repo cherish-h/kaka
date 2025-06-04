@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1213" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,9 +421,6 @@
         <mxCell id="Vj2CczaLzuFjUElGhAKb-1" value="&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;管理后台端&lt;/font&gt;" style="swimlane;html=1;startSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="1215" y="50" width="530" height="2800" as="geometry" />
         </mxCell>
-        <mxCell id="Vj2CczaLzuFjUElGhAKb-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;" vertex="1" parent="Vj2CczaLzuFjUElGhAKb-1">
-          <mxGeometry x="400" y="2070" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-66" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#FF66B3;strokeColor=#FF66B3;strokeWidth=5;" edge="1" parent="Vj2CczaLzuFjUElGhAKb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1215" y="2190" as="sourcePoint" />
@@ -432,16 +429,6 @@
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-21" value="审核处方是否合理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Vj2CczaLzuFjUElGhAKb-1">
           <mxGeometry x="190" y="2070" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vj2CczaLzuFjUElGhAKb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="Vj2CczaLzuFjUElGhAKb-1" source="Vj2CczaLzuFjUElGhAKb-21" target="Vj2CczaLzuFjUElGhAKb-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="2100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vj2CczaLzuFjUElGhAKb-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Vj2CczaLzuFjUElGhAKb-29">
-          <mxGeometry x="-0.261" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Vj2CczaLzuFjUElGhAKb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="77e6c97f196da883-1" source="Vj2CczaLzuFjUElGhAKb-15" target="Vj2CczaLzuFjUElGhAKb-21">
           <mxGeometry relative="1" as="geometry">
@@ -459,6 +446,19 @@
         <mxCell id="Vj2CczaLzuFjUElGhAKb-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Vj2CczaLzuFjUElGhAKb-24">
           <mxGeometry x="-0.2796" relative="1" as="geometry">
             <mxPoint x="276" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj2CczaLzuFjUElGhAKb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="77e6c97f196da883-1" source="Vj2CczaLzuFjUElGhAKb-21" target="Vj2CczaLzuFjUElGhAKb-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1615" y="2150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1480" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj2CczaLzuFjUElGhAKb-31" value="否，打回给医生重新提交" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Vj2CczaLzuFjUElGhAKb-29">
+          <mxGeometry x="-0.261" y="2" relative="1" as="geometry">
+            <mxPoint x="-102" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
